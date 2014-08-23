@@ -14,5 +14,5 @@ Here are the project pages so far:
 
 Projects done for the Coursera Data Science Specialisation:
 
-* [The Exp App](http://ikorneta.github.io/datasciencecoursera/PresExpApp/ExpAppPres.html) - Rpresenter presentation for the [Exp Shiny App](http://ikorneta.shinyapps.io/ExpApp/) (displays histograms of random samples drawn from the exponential distribution; see also the [Exp Poiss App](http://ikorneta.shinyapps.io/PoissonApp/) for the Poisson distribution);
+* [The Exp App](http://ikorneta.github.io/datasciencecoursera/PresExpApp/ExpAppPres.html) - Rpresenter presentation for the [Exp Shiny App](http://ikorneta.shinyapps.io/ExpApp/) (displays histograms of random samples drawn from the exponential distribution; see also the [Poisson App](http://ikorneta.shinyapps.io/PoissonApp/) for the Poisson distribution);
 * [HAR: Barbell Lifts](http://ikorneta.github.io/datasciencecoursera/barbell/barbell.html) - Machine Learning project assignment, prediction of types of barbell lifts from recorded Human Activity Recognition (HAR) data.
