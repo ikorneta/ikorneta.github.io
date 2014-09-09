@@ -9,7 +9,8 @@ Here are the project pages so far:
 * [US Gun Ownership Statistics](http://ikorneta.github.io/gunstats/) - exploration of GSS and BFRSS data on gun ownership in the United States, with the following subpages:
   * [GSS data exploration](http://ikorneta.github.io/gunstats/pages/expgss.html) - exploration of GSS data;
   * [BFRSS data exploration](http://ikorneta.github.io/gunstats/pages/expbrfss.html) - exploration of BFRSS data;
-  * [the Housing Discrimination question](http://ikorneta.github.io/gunstats/pages/housdisc.html) - in-depth analysis of the relationship between gun ownership among young white men and the answer to the GSS Housing Discrimination question.
+  * [the Housing Discrimination question](http://ikorneta.github.io/gunstats/pages/housdisc.html) - in-depth analysis of the relationship between gun ownership among young white men and the answer to the GSS Housing Discrimination question;
+* [Ebola App](http://ikorneta.github.io/ebola/) - project page for the 2014 West Africa Ebola outbreak visualisation [Shiny App](https://ikorneta.shinyapps.io/ebola/).
 
 
 Projects done for the Coursera Data Science Specialisation:
